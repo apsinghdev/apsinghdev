@@ -9,8 +9,6 @@
 
 <p align="left"> <a href="https://twitter.com/ajeetonx" target="blank"><img src="https://img.shields.io/twitter/follow/ajeetonx?logo=twitter&style=for-the-badge" alt="ajeetonx" /></a> </p>
 
-- 🔭 I’m currently working on [Paytm](https://github.com/apsinghdev/Paytm)
-
 - 💬 Ask me about **React, Node.js, MongoDB, Express.js and more**
 
 - 📫 How to reach me **ajeetpratapsingh351@gmail.com**
