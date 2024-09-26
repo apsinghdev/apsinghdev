@@ -1,9 +1,9 @@
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+![MasterHead](https://images.app.goo.gl/YWHdkZZHEBGaJZwn9)
 
 <h1 align="center">Hi 👋, I'm Ajeet Pratap Singh.</h1>
 <h3 align="center">A curious and passionate Full Stack developer.</h3>
 
-<h4 align="center">List of My Recent Work and Projects</h4>
+<h4 align="center">List of Some of My Recent Work and Projects</h4>
 
 - During my Internship at Sugarlabs, I implemented real-time collaboration with Music Blocks. <a href="https://github.com/sugarlabs/musicblocks/issues/3851">Here</a> is the comprehensive list of PRs I raised.
 - Also, I created an ExpressJS <a href="https://github.com/sugarlabs/collaboration-server">server</a> for the collaboration from scratch and Transferred it to the Sugarlabs.
