@@ -1,4 +1,4 @@
-![MasterHead](https://images.app.goo.gl/YWHdkZZHEBGaJZwn9)
+![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmrkamrann%2Fmrkamrann&psig=AOvVaw0Odm77VqaK_Buh24S_tTmM&ust=1727410464983000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNDT1tff34gDFQAAAAAdAAAAABAa)
 
 <h1 align="center">Hi 👋, I'm Ajeet Pratap Singh.</h1>
 <h3 align="center">A curious and passionate Full Stack developer.</h3>
