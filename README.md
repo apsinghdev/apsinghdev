@@ -1,13 +1,20 @@
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+![MasterHead]([https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://images.app.goo.gl/YWHdkZZHEBGaJZwn9))
 <h1 align="center">Hi 👋, I'm Ajeet Pratap Singh.</h1>
-<h3 align="center">A curious and passionate Full Stack developer from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/programming-coding-digital-marketing-b63zccx04i4luhh9.gif"/>
+<h3 align="center">A curious and passionate Full Stack developer.</h3>
+
+<h4 align="center">List of My Recent Work and Projects</h4>
+
+- During my Internship at Sugarlabs, I implemented real-time collaboration with Music Blocks. <a href="https://github.com/sugarlabs/musicblocks/issues/3851">Here</a> is the comprehensive list of PRs I raised.
+- Also, I created an ExpressJS <a href="https://github.com/sugarlabs/collaboration-server">server</a> for the collaboration from scratch and Transferred it to the Sugarlabs.
+- I am an active contributor at Sugarlabs. <a href="https://github.com/sugarlabs/musicblocks/pulls?q=is%3Apr+author%3Aapsinghdev">Here</a> is the complete list of contributions I made and counting.
+- I built <a href="https://drawrtcbyajeet.vercel.app/">drawRTC</a>, a real-time collaboration app to let people draw with friends in real-time. <a href="https://github.com/apsinghdev/drawRTC">Source Code</a>
+- Currently, I am building <a href="https://github.com/opensox/opensox">Opensox</a>, a tool to save countless hours by automating the search for an open-source project per the user's specific needs.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apsinghdev&label=Profile%20views&color=0e75b6&style=flat" alt="apsinghdev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apsinghdev" alt="apsinghdev" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ajeetonx" target="blank"><img src="https://img.shields.io/twitter/follow/ajeetonx?logo=twitter&style=for-the-badge" alt="ajeetonx" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ajeetunc" target="blank"><img src="https://img.shields.io/twitter/follow/ajeetonx?logo=twitter&style=for-the-badge" alt="ajeetonx" /></a> </p>
 
 - 💬 Ask me about **React, Node.js, MongoDB, Express.js and more**
 
